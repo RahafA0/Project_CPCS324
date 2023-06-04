@@ -1,3 +1,4 @@
+//By Team members: Abrar Alkamajani - Rahaf Albrakati - Ghada Aljuhani - Rahaf Koshak
 package GraphFramework;
 //This class is a superclass that represents the general characteristics of an algorithm used for computing the MST. 
 //It has two subclasses: KruskalAlg and MHPrimAlg.
